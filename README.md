@@ -1,2 +1,3 @@
 # C_programming
-Records about C programming learning
+
+This respority contains some codes writed when learning C programming.
